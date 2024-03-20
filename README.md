@@ -1,4 +1,4 @@
-<center>![gif](https://github.com/images/mona-whisper.gif)<h1>Welcome to my profile!!</h1></center>
+![gif](https://github.com/images/mona-whisper.gif)<h1>Welcome to my profile!!</h1>
 
 - Python Developer;
 - Web API Developer;
